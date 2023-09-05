@@ -164,7 +164,7 @@ a:hover {
 /* SECTIONS */
 
 section {
-  padding-top: 4vh;
+  padding-top: 2vh;
   height: 96vh;
   margin: 0 10rem;
   box-sizing: border-box;
@@ -199,6 +199,7 @@ section {
 
 .section__text p {
   font-weight: 600;
+  font-size: 20px;
 }
 
 .section__text__p1 {
@@ -211,8 +212,9 @@ section {
 }
 
 .title {
-  font-size: 3rem;
+  font-size: 4rem;
   text-align: center;
+
 }
 
 #socials-container {
